@@ -1,0 +1,6 @@
+{
+    "appSecret": "32523130488532374a21d7d629a389fa",
+    "pageAccessToken": "EAAXj0xTdG7kBAEk3egLsWFQ3x86zEJZBuBZAERYeaIXsQTPEA6n919B5nRMNANxXIVNnZAJpAi6LtReUgwTk38Hpy0VuKURpW4ZCyvm9SPV6asXHiBRCpLti83ZCNaNwGxinsfdVHFdmzqZBIIqEvC3cktYapJV9vgplxd1Ndx8wZDZD",
+    "validationToken": "chatty",
+    "serverURL": "https://chatbot.yyagi3fphe.us-east-1.elasticbeanstalk.com"
+}
